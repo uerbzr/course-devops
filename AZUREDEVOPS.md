@@ -91,4 +91,4 @@ Lets go..
 
     - Create a pipeline
 
-[Return](https://github.com/uerbzr/course-devops-introduction)
+[Return](https://github.com/uerbzr/course-devops)

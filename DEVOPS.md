@@ -10,4 +10,4 @@
 
 - Monitoring & Feedback: Strong focus on monitoring applications and systems to gather feedback, ensure performance, and adapt quickly to changes.
 
-[Return](https://github.com/uerbzr/course-devops-introduction)
+[Return](https://github.com/uerbzr/course-devops)
