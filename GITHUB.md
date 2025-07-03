@@ -106,4 +106,4 @@ jobs:
 - [Github Documentation](https://docs.github.com/)
 - [SSH Setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-[Return](https://github.com/uerbzr/course-devops-introduction)
+[Return](https://github.com/uerbzr/course-devops)
