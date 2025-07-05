@@ -1,6 +1,6 @@
 # Devops Introduction Course
 
-## [0 - Project Management Features of Github/Azure](PROJECT.md)
+## [0 - Project Management in Github/Azure](PROJECT.md)
 
 ## [1 - Introduction to Devops](DEVOPS.md)
 
