@@ -2,7 +2,7 @@
 
 ## What is Devops?
 
-    🤔 Definition: DevOps is a consists of practices and tools aimed at streamlining and automating the software development and operations lifecycle.
+    🤔 Definition: DevOps consists of practices and tools aimed at streamlining and automating the software development and operations lifecycle.
 
     🧑‍🤝‍🧑 Collaboration: It bridges the gap between development (Dev) and operations (Ops) teams, promoting better communication and teamwork.
 
@@ -14,17 +14,17 @@
 
 ## Github or Azure Devops ?
 
-    🤝 Relationship Between GitHub and Azure DevOps
+### The Relationship Between GitHub and Azure DevOps
 
-    🤝 Shared Ownership: Both platforms are owned and actively developed by Microsoft, which means they’re designed to complement each other rather than compete.
+🤝 Shared Ownership: Both platforms are owned and actively developed by Microsoft, which means they’re designed to complement each other rather than compete.
 
-    ↘️ Integrated Workflows: You can link Azure Boards to GitHub commits, pull requests, and issues, enabling full traceability from planning to deployment.
+↘️ Integrated Workflows: You can link Azure Boards to GitHub commits, pull requests, and issues, enabling full traceability from planning to deployment.
 
-    ⚔️ Cross-Platform CI/CD: Azure Pipelines can build and deploy code from GitHub repositories, and GitHub Actions can trigger Azure services, creating a hybrid DevOps pipeline.
+⚔️ Cross-Platform CI/CD: Azure Pipelines can build and deploy code from GitHub repositories, and GitHub Actions can trigger Azure services, creating a hybrid DevOps pipeline.
 
-    🏳️‍🌈 Unified Licensing: GitHub Enterprise licenses now include Azure DevOps Basic usage rights, streamlining access across both platforms.
+🏳️‍🌈 Unified Licensing: GitHub Enterprise licenses now include Azure DevOps Basic usage rights, streamlining access across both platforms.
 
-    🪪 Security Synergy: GitHub Advanced Security features like secret scanning and code analysis are being integrated into Azure DevOps via GHAzDO (GitHub Advanced Security for Azure DevOps).
+🪪 Security Synergy: GitHub Advanced Security features like secret scanning and code analysis are being integrated into Azure DevOps via GHAzDO (GitHub Advanced Security for Azure DevOps).
 
 ## They are Similar!
 
