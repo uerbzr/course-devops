@@ -22,6 +22,10 @@ DevOps automates tasks such as testing and deployment to improve efficiency and 
 
 Strong focus on monitoring applications and systems to gather feedback, ensure performance, and adapt quickly to changes.
 
+## Other Options
+
+Github, Azure Devops, GitLab, Jenkins, Bitbucket, CircleCI, TeamCity, Octopus deploy, Harness, Codefresh are all tools other options. 
+
 ## Github or Azure Devops ?
 
 ### The Relationship Between GitHub and Azure DevOps
