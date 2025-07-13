@@ -24,11 +24,13 @@ Strong focus on monitoring applications and systems to gather feedback, ensure p
 
 ## Other Options
 
-Github, Azure Devops, GitLab, Jenkins, Bitbucket, CircleCI, TeamCity, Octopus deploy, Harness, Codefresh are all tools other options. 
+Github, Azure Devops, GitLab, Jenkins, Bitbucket, CircleCI, TeamCity, Octopus deploy, Harness, Codefresh offer similar.
 
 ## Github or Azure Devops ?
 
 ### The Relationship Between GitHub and Azure DevOps
+
+Rather than pick one or the other we can use them both.
 
 🤝 Shared Ownership: Both platforms are owned and actively developed by Microsoft, which means they’re designed to complement each other rather than compete.
 
