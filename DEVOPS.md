@@ -2,15 +2,24 @@
 
 ## What is Devops?
 
-    🤔 Definition: DevOps consists of practices and tools aimed at streamlining and automating the software development and operations lifecycle.
+### 🤔 Definition:
 
-    🧑‍🤝‍🧑 Collaboration: It bridges the gap between development (Dev) and operations (Ops) teams, promoting better communication and teamwork.
+DevOps consists of practices and tools aimed at streamlining and automating the software development and operations lifecycle.
 
-    🏎️ Continuous Processes: Key practices include Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment, enabling faster and more reliable software releases.
+###🧑‍🤝‍🧑 Collaboration:
+It bridges the gap between development (Dev) and operations (Ops) teams, promoting better communication and teamwork.
 
-    🤖 Automation: DevOps automates tasks such as testing and deployment to improve efficiency and reduce human error.
+### 🏎️ Continuous Processes:
 
-    🔭 Monitoring & Feedback: Strong focus on monitoring applications and systems to gather feedback, ensure performance, and adapt quickly to changes.
+Key practices include Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment, enabling faster and more reliable software releases.
+
+### 🤖 Automation:
+
+DevOps automates tasks such as testing and deployment to improve efficiency and reduce human error.
+
+### 🔭 Monitoring & Feedback:
+
+Strong focus on monitoring applications and systems to gather feedback, ensure performance, and adapt quickly to changes.
 
 ## Github or Azure Devops ?
 
