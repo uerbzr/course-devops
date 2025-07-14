@@ -22,10 +22,10 @@ affecting the main codebase.
 
 ## Installation
 
-- [Prerequisites](https://github.com/uerbzr/course-devops-prerequisites)
+- Install Gitbash
 - Future you - consider SSH keys for github [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-## Exercise
+## Workshop
 
 - Create a repo with [repo.new](http://repo.new)
 - Clone it with `git clone https://github.com/uerbzr/nameofrepo`

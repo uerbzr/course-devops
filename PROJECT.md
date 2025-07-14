@@ -1,5 +1,25 @@
 # Project Management in Github / Azure
 
+## 🧩 GitHub Projects – Lightweight, Developer-Centric 
+
+- Kanban-style Boards for visual task tracking (To Do, In Progress, Done)
+- Real-time Collaboration with issues, pull requests, and comments linked directly to tasks
+- Automation Rules to move cards based on PR status or issue updates
+- Custom Fields & Views for filtering by priority, status, or assignee
+- Milestones to group issues by release goals or deadlines
+- Integration with GitHub Actions for CI/CD triggers tied to project progress
+- Cross-repo Tracking to manage tasks across multiple repositories
+- Flexible Planning for individuals or small teams without rigid process overhead
+
+## 🛠️ Azure DevOps – Structured, Enterprise-Grade 
+- Boards with Agile Templates (Scrum, Kanban, CMMI) for formal planning
+- Work Item Hierarchies (Epics → Features → Stories → Tasks) for scalable tracking
+- Sprints & Iterations to manage time-boxed delivery cycles
+- Backlog Management with prioritization, forecasting, and roll-up views
+- Dashboards & Analytics for velocity, burndown, and team performance
+- Integrated CI/CD Pipelines via Azure Pipelines for automated builds and deployments
+- Test Plans & Artifacts for QA workflows and package management
+- Service Hooks & REST API for custom automation and external integrations
 
 ### 📊 Project Management Features: GitHub Projects vs Azure DevOps
 
