@@ -1,14 +1,14 @@
 # ⛏️ Devops Introduction Course
 
-## ℹ️[About Me](INTRODUCTION.md)
+## ℹ️ [About Me](INTRODUCTION.md)
 
 ## 🫵 About You!
 
-## 🐤[Prerequisites](https://github.com/uerbzr/course-devops-prerequisites)
+## 🐤 [Prerequisites](https://github.com/uerbzr/course-devops-prerequisites)
 
-## 🙋‍♂️[Introduction to Devops](DEVOPS.md)
+## 🙋‍♂️ [Introduction to Devops](DEVOPS.md)
 
-## 📖[Project Management in Github/Azure](PROJECT.md)
+## 📖 [Project Management in Github/Azure](PROJECT.md)
 
 - Github
 

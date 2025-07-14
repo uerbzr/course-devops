@@ -22,7 +22,7 @@
 
 ---
 
-👉 **Language:** C# • Python • HTML • SQL • Terraform • COBOL • VB.Net • C • JAVA • Pascal
+👉 **Language:** C# • Python • HTML • SQL • Terraform • COBOL • VB.Net • C • JAVA • Pascal 
 
 👉 **Frontend & Web:** HTML5 • CSS3 • JavaScript • TypeScript • jQuery • React • Angular • Prisma
 
