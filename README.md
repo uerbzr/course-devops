@@ -1,5 +1,9 @@
 # ⛏️ Devops Introduction Course
 
+## ℹ️[About Me](INTRODUCTION.md)
+
+## 🫵 About You!
+
 ## 🐤[Prerequisites](https://github.com/uerbzr/course-devops-prerequisites)
 
 ## 🙋‍♂️[Introduction to Devops](DEVOPS.md)
