@@ -23,7 +23,13 @@
 ## 🔎[Introduction to Git using Github](GITHUB.md)
 
 - [Repo.New](https://repo.new)
-- [Fork](https://github.com/microsoft/WPF-Samples)
+  - `git clone <URL>`
+  - `touch NewFile.md`
+  - `git add .`
+  - `git commit -m "first commit - added NewFile"`
+  - `git push`
+  - `git log`
+- [Fork](https://github.com/uerbzr/WPF-Samples)
 - [Workflow](https://github.com/uerbzr/course-devops-example)
 - [Hooks](https://github.com/uerbzr/course-devops-hooks)
 - [Branching](https://github.com/uerbzr/course-devops-branch-example)
@@ -33,5 +39,6 @@
 ## 💻[Introduction to Azure Devops](AZUREDEVOPS.md)
 
 - [Setup/Administration](https://xtonproductions.visualstudio.com/)
-- [Boards/Backlogs/Sprints](#)
-- [New Project](https://xtonproductions.visualstudio.com/)
+- [Repos](https://xtonproductions.visualstudio.com/_git/course-repos)
+- [Pipelines](https://xtonproductions.visualstudio.com/course-devops-pipelines/_build)
+- [Artifacts](https://xtonproductions.visualstudio.com/)
