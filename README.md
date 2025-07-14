@@ -7,9 +7,12 @@
 ## 📖[Project Management in Github/Azure](PROJECT.md)
 
 - Github
+
   - [Project Setup/Administration](https://github.com/uerbzr?tab=projects)
   - [Project Example](https://github.com/users/uerbzr/projects/13/views/1)
-- Azure
+  - [Project Settings](https://github.com/users/uerbzr/projects/13/settings)
+
+- [Azure Devops](AZUREDEVOPS.md)
   - [Settings](https://xtonproductions.visualstudio.com/course-devops/_settings/)
   - [Azure Boards](https://xtonproductions.visualstudio.com/course-devops/_boards/board/t/course-devops%20Team/Stories)
   - [Azure Backlogs]()
@@ -17,10 +20,12 @@
   - [Azure Dashboards](https://xtonproductions.visualstudio.com/course-devops/_dashboards/dashboard/c64786b3-e552-4f1b-acb4-598ae3e1d402)
   - [Azure Queries](https://xtonproductions.visualstudio.com/course-devops/_queries/favorites/)
 
-## 🔎[Introduction to Github](GITHUB.md)
+## 🔎[Introduction to Git using Github](GITHUB.md)
 
+- [Repo.New](https://repo.new)
+- [Fork](https://github.com/microsoft/WPF-Samples)
 - [Workflow](https://github.com/uerbzr/course-devops-example)
-- [Hooks Intro](https://github.com/uerbzr/course-devops-hooks)
+- [Hooks](https://github.com/uerbzr/course-devops-hooks)
 - [Branching](https://github.com/uerbzr/course-devops-branch-example)
 - [Tags](https://github.com/uerbzr/course-devops-tags)
 - [Pull Request](https://github.com/uerbzr/course-devops-pullrequest)
