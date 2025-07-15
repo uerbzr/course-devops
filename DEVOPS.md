@@ -26,6 +26,18 @@ Strong focus on monitoring applications and systems to gather feedback, ensure p
 
 Github, Azure Devops, GitLab, Jenkins, Bitbucket, CircleCI, TeamCity, Octopus deploy, Harness, Codefresh offer similar.
 
+## 🔧 GitHub
+
+- Git-based platform for hosting code
+- Collaboration through branching, merging and pull requests
+- GitHub Actions for CI/CD automation.
+- It’s ideal for open-source and private projects, offering visibility with GitHub Pages and streamlined workflows.
+  🚀 Azure DevOps
+
+- Full-stack tool for managing the software lifecycle — from Boards for task tracking to Pipelines for automated deployments.
+- Supports Git, integrates and excels at enterprise-grade CI/CD.
+- Promotes collaboration between development and operations to shorten feedback loops and improve reliability.
+
 ## Github or Azure Devops ?
 
 ### The Relationship Between GitHub and Azure DevOps

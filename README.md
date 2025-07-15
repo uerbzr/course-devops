@@ -18,6 +18,7 @@
 
 - [Azure Devops](AZUREDEVOPS.md)
   - [Settings](https://xtonproductions.visualstudio.com/course-devops/_settings/)
+  - [Permissions](https://xtonproductions.visualstudio.com/course-devops/_settings/permissions)
   - [Azure Boards](https://xtonproductions.visualstudio.com/course-devops/_boards/board/t/course-devops%20Team/Stories)
   - [Azure Backlogs]()
   - [Azure Sprints](https://xtonproductions.visualstudio.com/course-devops/_sprints/taskboard/course-devops%20Team/course-devops/Iteration%201)
@@ -39,6 +40,9 @@
 - [Branching](https://github.com/uerbzr/course-devops-branch-example)
 - [Tags](https://github.com/uerbzr/course-devops-tags)
 - [Pull Request](https://github.com/uerbzr/course-devops-pullrequest)
+
+- Linking  
+  -[Azure](https://xtonproductions.visualstudio.com/course-devops-calculator) -[Github](https://github.com/uerbzr/course-devops-calculator)
 
 ## 💻[Introduction to Azure Devops](AZUREDEVOPS.md)
 
