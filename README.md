@@ -48,5 +48,4 @@
 
 - [Setup/Administration](https://xtonproductions.visualstudio.com/)
 - [Repos](https://xtonproductions.visualstudio.com/_git/course-repos)
-- [Pipelines](https://xtonproductions.visualstudio.com/course-devops-pipelines/_build)
-- [Artifacts](https://github.com/uerbzr/course-devops-artifacts/)
+- [Pipelines & Artifacts](https://github.com/uerbzr/course-devops-artifacts/)
